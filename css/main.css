@@ -21,6 +21,8 @@
   left: 50%;
   margin-top: -40px;
   margin-left: -40px;
+  background-color: #000;
+  z-index: 100000;
   display: none; /* Para ocultar el loader inicialmente */
 }
 
